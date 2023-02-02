@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestCompose</string>
+    <string name="load">Load Characters</string>
+    <string name="load_more">Load more characters</string>
+    <string name="loading">Loading</string>
+    <string name="fail">Failed to load characters</string>
+</resources>
